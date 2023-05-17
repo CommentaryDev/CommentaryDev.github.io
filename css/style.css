@@ -203,6 +203,7 @@ section {
 }
 .navbar-default .dropdown-menu {
 	padding: 10px 0;
+	background-color: #777;
 }
 .dropdown-menu > li > a {
 	padding: 4px 20px;
